@@ -107,13 +107,13 @@ nuts and the jack nuts look alike but they are not and will not fit in each othe
 don't mix them!
 
 ## Potentiometers
-Cut the locating lug on all four pots with cutting pliers as pictured:
+Cut the little edge on all four pots with cutting pliers as pictured:
 
 ![Potentiometer](http://aknuds1.github.io/befaco-spring-reverb/pictures/potmeter.png "Potentiometer")
 
 Now place the potentiometers on the PCB but... **don't solder them**
 
-## Switches
+## Switch
 Place the toggle switch, but **don't solder it** until it's screwed to the front panel. This way
 it's easier to solder it in the right position.
 
@@ -126,14 +126,14 @@ to the front panel.
 Put the LEDs in place checking the polarity, but **don't solder them** until the front panel is
 in place. This is the only way to solder them in the right position.
 
-The long Leg is the + and the short is the minus. There is a + symbol on the PCB to indicate the
+The long leg is the + and the short one is the minus. There is a + symbol on the PCB to indicate the
 correct position.
 
 ## FRONT PANEL
 **Place the front panel** moving a little the parts one by one if necessary until you fit them
 to the top. At this point a pair of sharp tweezers can be helpful.
 
-Screw in the next order: Mini-jacks, switch, pots and jack.
+Screw in the next order: Minijacks, switch, pots and jack.
 
 Until all of them are flat and touching completely the panel.
 **Then (finally) solder all of them.** ; )
