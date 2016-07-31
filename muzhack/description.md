@@ -14,7 +14,6 @@ With two audio inputs (6.5 jack and minijack/banana), input amplification is con
 “GAIN” pot, controlling the amplitude of the envelopes that will be generated. Minimum signal
 required to generate the maximum envelope is 200mV peak and allows up to 5v input.
 
-
 ## BPF
 The signal will pass thru a band pass filter with cutoff frequency and band width control via
 “FREQ” and “WIDTH” pots. Like this we will select the frequency range that will generate our
