@@ -2,7 +2,7 @@
 **Please note that this is an unofficial project page, the official one is [here](http://www.befaco.org/en/instrument-interface/).**
 
 **Thanks for choosing our kits!**
-This manual is written taking with the problems that we usually find in our workshops in mind.
+This manual is written with the problems that we usually find in our workshops in mind.
 Also the order is meant to make assembly as easy as possible. Some steps are not obvious so even
 if you're an experienced DIYer, read the steps completely before taking them.
 
