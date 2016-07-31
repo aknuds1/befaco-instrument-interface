@@ -1,0 +1,235 @@
+Main PCB (the small one):
+  Resistors:
+    -
+      Quantity: 1
+      Value: 1k
+      Code: [Brown, black, black, brown, brown]
+      "Name on PCB": [R16]
+    -
+      Quantity: 6
+      Value: 4k3
+      Code: [Yellow,orange,black,brown,brown]
+      "Name on PCB": [R1, R3, R5, R9, R17, R18]
+    -
+      Quantity: 1
+      Value: 5k6
+      Code: [Green,blue,black,brown,brown]
+      "Name on PCB": [R7]
+    -
+      Quantity: 17
+      Value: 10k
+      Code: [Brown,black,black,red,brown]
+      "Name on PCB": [R6,R8, R10, R21, R22, R26, R32, R33, R34 R36, R40, R41, R44,R45, R49, R51, R52]
+    -
+      Quantity: 1
+      Value: 18k
+      Code: [Brown,grey,black,red,brown]
+      "Name on PCB": [R13]
+    -
+      Quantity: 4
+      Value: 20k
+      Code: [Red,black,black,red,brown]
+      "Name on PCB": [R20, R25, R42, R47]
+    -
+      Quantity: 1
+      Value: 36k
+      Code: [Orange,blue,black,red,brown]
+      "Name on PCB": [R14]
+    -
+      Quantity: 1
+      Value: 56k
+      Code: [Green,blue,black,red,brown]
+      "Name on PCB": [R24]
+    -
+      Quantity: 11
+      Value: 100k
+      Code: [Brown,black,black,orange,brown]
+      "Name on PCB": [R11, R15, R19, R23, R29, R30, R31, R37, R38, R43, R50]
+    -
+      Quantity: 2
+      Value: 130k
+      Code: [Brown,orange,black,orange,brown]
+      "Name on PCB": [R28, R48]
+    -
+      Quantity: 2
+      Value: 180k
+      Code: [Brown,grey,black,orange,brown]
+      "Name on PCB": [R35, R39]
+    -
+      Quantity: 2
+      Value: 300k
+      Code: [Orange,black,black,orange,brown]
+      "Name on PCB": [R27, R46]
+    -
+      Quantity: 3
+      Value: 1M
+      Code: [Brown,black,black,yellow,brown]
+      "Name on PCB": [R2, R4, R12]
+  Diodes:
+    -
+      Quantity: 6
+      Value: 1N4148
+      "Name on PCB": [D1, D2, D3, D4, D5, D6]
+  Ferrite:
+    -
+      Quantity: 2
+      "Name on PCB": [FERRITE+, FERRITE-]
+  IC Sockets:
+    -
+      Quantity: 8
+      "Name on PCB": [IC1, IC2, IC3]
+  ICs:
+    -
+      Quantity: 2
+      Value: TL074
+      "Name on PCB": [IC1, IC2]
+    -
+      Quantity: 1
+      Value: TL072
+      "Name on PCB": [IC3]
+  Capacitors:
+    -
+      Quantity: 1
+      Value: 100p
+      Code: 101
+      "Name on PCB": [C13]
+    -
+      Quantity: 1
+      Value: 1n
+      Code: 102
+      "Name on PCB": [C2]
+    -
+      Quantity: 2
+      Value: 2n2
+      Code: 2n2
+      "Name on PCB": [C4, C5 (Poliester)]
+    -
+      Quantity: 1
+      Value: 10n
+      Code: 10n
+      "Name on PCB": [C10 (Poliester)]
+    -
+      Quantity: 11
+      Value: 100n
+      Code: 104
+      "Name on PCB": [C3, C6, C9, C11, C14, C15, C16, C17, C18, C21, C22]
+    -
+      Quantity: 1
+      Value: 150n
+      Code: .15k
+      "Name on PCB": [C7 (Poliester)]
+    -
+      Quantity: 1
+      Value: 220n
+      Code: .22k
+      "Name on PCB": [C1 (Poliester)]
+    -
+      Quantity: 1
+      Value: 1uf
+      Code: 1k63
+      "Name on PCB": [C8 (Poliester)]
+  Electrolytic Capacitors:
+    -
+      Quantity: 2
+      Value: 10uf
+      Code: 10uf
+      "Name on PCB": [C19, C20]
+    -
+      Quantity: 1
+      Value: 100uf
+      Code: 100uf
+      "Name on PCB": [C12]
+  Transistors:
+    -
+      Quantity: 3
+      Value: 2n3904
+      "Name on PCB": [Q1, Q3, Q7]
+    -
+      Quantity: 6
+      Value: 2n3906
+      "Name on PCB": [Q2, Q4, Q5, Q6, Q8, Q9]
+  Male Pin Headers:
+    -
+      Quantity: 2
+  Power Connector:
+    -
+      Quantity: 1
+Control PCB:
+  Resistors:
+    -
+      Quantity: 2
+      Value: 39 Ohm
+      Code: [Orange, white black, gold, brown]
+      "Name on PCB": [R105, R107]
+    -
+      Quantity: 5
+      Value: 1k
+      Code: [Brown,black,black,brown,brown]
+      "Name on PCB": [R100, R102, R103, R104, R106]
+    -
+      Quantity: 1
+      Value: 20k
+      Code: [Red,black,black,red,brown]
+      "Name on PCB": [R101]
+  Diodes:
+    -
+      Quantity: 3
+      Value: 1N4148
+      "Name on PCB": [D100, D101, D102]
+  Capacitors:
+    -
+      Quantity: 1
+      Value: 22n
+      Code: 22n (Poliester)
+      "Name on PCB": [C101]
+    -
+      Quantity: 1
+      Value: 100n
+      Code: .1k63 (Poliester)
+      "Name on PCB": [C100]
+  Electrolytic Capacitors:
+    -
+      Quantity: 1
+      Value: 4,7 uF
+      Code: 4,7 uF
+      "Name on PCB": [C102]
+    -
+      Quantity: 2
+      Value: 100 uF
+      Code: 100 uF
+      "Name on PCB": [C103, C104]
+  Female Pin Headers:
+    -
+      Quantity: 2
+  Spacers:
+    -
+      Quantity: 4
+  Minijacks:
+    -
+      Quantity: 6
+  Potentiometers:
+    -
+      Quantity: 2
+      Value: Dual (6pin) 10K
+      "Name on PCB": [FREQ, WIDTH]
+    -
+      Quantity: 4
+      Value: Single (3pin) 100K
+      "Name on PCB": [ATTACK, DECAY, GAIN, THRESHOLD]
+  Switches:
+    -
+      Quantity: 1
+      type: Single tree position
+      "Name on PCB": [Response]
+  Jack:
+    -
+      Quantity: 1
+  LEDs:
+    -
+      Quantity: 2
+      Type`: Two poles
+      "Name on PCB": [LED GATE_LED, TRIGGER_LED]
+    -
+      Quantity: 2
+      Type`: Three poles
+      "Name on PCB": [LED LED_ENV, LED_REG]
