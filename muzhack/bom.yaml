@@ -19,7 +19,7 @@ Main PCB (the small one):
       Quantity: 17
       Value: 10k
       Code: [Brown,black,black,red,brown]
-      "Name on PCB": [R6,R8, R10, R21, R22, R26, R32, R33, R34 R36, R40, R41, R44,R45, R49, R51, R52]
+      "Name on PCB": [R6, R8, R10, R21, R22, R26, R32, R33, R34, R36, R40, R41, R44,R45, R49, R51, R52]
     -
       Quantity: 1
       Value: 18k
@@ -76,7 +76,7 @@ Main PCB (the small one):
       "Name on PCB": [FERRITE+, FERRITE-]
   IC Sockets:
     -
-      Quantity: 8
+      Quantity: 3
       "Name on PCB": [IC1, IC2, IC3]
   ICs:
     -
