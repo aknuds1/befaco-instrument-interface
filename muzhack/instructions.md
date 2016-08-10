@@ -34,9 +34,6 @@ between the power connector and the diodes.
 **Place the IC sockets** taking care of their orientation and solder them on IC1, IC2 and IC3. The
 orientation must match the PCB's outline.
 
-Place the three ICs on the sockets taking care of polarity. The mark on the front of the IC must
-match the mark on the socket and the PCB's silkscreen.
-
 ### Capacitors
 Solder the capacitors.
 
@@ -114,40 +111,36 @@ Cut the little edge on all four pots with cutting pliers as pictured:
 Now place the potentiometers on the PCB but... **don't solder them**
 
 ## Switch
-Place the toggle switch, but **don't solder it** until it's screwed to the front panel. This way
-it's easier to solder it in the right position.
+Place the toggle switch, but **don't solder it** until it's screwed to the front panel.
+This ways it's easier to solder it in the right position.
 
 ## Jack
-Place the Jack connector on the top side of the silkscreen, taking care to put it in the right
-position (the shape must match the drawing on the PCB) but don't solder it until it is screwed
-to the front panel.
+Place the Jack connector on the top side of the silkscreen of the main board, taking care
+to put it in the right position (the shape must match the drawing on the PCB) but don't
+solder it until it is screwed to the front panel.
 
 ## LEDs
-Put the LEDs in place checking the polarity, but **don't solder them** until the front panel is
-in place. This is the only way to solder them in the right position.
+Put the LEDs in place checking the polarity, but **don't solder them** until the
+front panel is in place. This is the only way to solder them in the right position.
 
-The long leg is the + and the short one is the minus. There is a + symbol on the PCB to indicate the
-correct position.
+The long leg is the + and the short one is the minus. There is a + symbol on the
+PCB to indicate the correct position.
 
 ## FRONT PANEL
-**Place the front panel** moving a little the parts one by one if necessary until you fit them
-to the top. At this point a pair of sharp tweezers can be helpful.
-
-Screw in the next order: Minijacks, switch, pots and jack.
-
-Until all of them are flat and touching completely the panel.
-**Then (finally) solder all of them.** ; )
-
-**Place the LEDs** in the panel holes making sure they are on the right level and proceed to
-solder them.
-
-**Plug the PCB1 onto the PCB2** using the pin headers and ensuring the two 3mm holes match
-the spacers. Screw both boards using two screws.
-
-**Put the knobs** on the potentiometers and the caps on the switches/faders.
-
-**Plug in the power ribbon cable**: The blue wire (negative) corresponds to pin number one
-of the connector. Pin number one is indicated with a small triangle and usually with a line on
-your power bus.
+1. **Place the front panel** adjusting the parts one by one as necessary until they fit.
+At this point a pair of sharp tweezers can be helpful.
+2. Screw the components to the panel until they are tightly aligned, in the following
+order: Minijacks, switch, pots and jack.
+3. **Then (finally) solder all of them.** ; )
+4. **Place the LEDs** in the panel holes making sure they are on the right level and
+proceed to solder them.
+5. Place the three ICs on the sockets on the main PCB, observing polarity. The mark
+on the front of the IC must match the mark on the socket and the PCB's silkscreen.
+6. **Plug PCB1 onto PCB2** using the pin headers and ensuring the two 3mm holes match
+the spacers. Screw the two boards onto each other using two screws.
+7. **Put the knobs** on the potentiometers and the caps on the switches/faders.
+8. **Plug in the power ribbon cable**: The blue wire (negative) corresponds to pin
+number one of the connector. Pin number one is indicated with a small triangle and
+usually with a line on your power bus.
 
 **Enjoy!**
